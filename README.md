@@ -1,2 +1,3 @@
-"# BTC-Price-Predictor" 
-"# BTC-Price-Predictor" 
+# Bitcoin Price / Trend Predictor
+
+---
