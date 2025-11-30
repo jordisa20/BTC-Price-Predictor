@@ -1,3 +1,13 @@
+# ----------------------------------------------------------------------------------
+# Requirements file for my implementations:
+# - bitcoin_trend.ipynb  (Trend Prediction / Classification)
+# - bitcoin_main.ipynb   (Price Prediction / Regression)
+#
+# These packages are ONLY required to run the two notebooks listed above.
+# The third notebook in the group project (created by another member) has
+# its own environment and does NOT depend on this requirements file.
+# ----------------------------------------------------------------------------------
+
 pandas
 numpy
 matplotlib
